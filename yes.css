@@ -1,0 +1,15 @@
+body {
+	background-image: url("background.gif");
+	background-size: cover;
+	color: black;
+	text-align: center;
+}
+.uno {
+	border-radius: 20px;
+}
+.dos {
+	border-radius: 20px;
+}
+.tres {
+	border-radius: 20px;
+}
